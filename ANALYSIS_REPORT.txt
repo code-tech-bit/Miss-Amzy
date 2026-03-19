@@ -1,0 +1,28 @@
+WEBSITE SOURCE CODE ANALYSIS
+LUFFY SOURCE EXTRACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+URL: https://miss-tristin.onrender.com/
+Timestamp: 2026-03-15T13:56:39.421476
+
+Primary Language: Python
+All Languages: Python, HTML, CSS, JavaScript
+
+PHP Detected: No
+Frameworks: Vue.js, Bootstrap, Tailwind, WordPress, Laravel
+
+Encrypted: No
+
+Files:
+- HTML: 1
+- CSS: 3
+- JavaScript: 1
+- PHP: 0
+- Python: 0
+- Java: 0
+
+APIs: 0
+Workers.dev: 0
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+⚡ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ʟᴜғғʏ ᴛᴇᴄʜ
